@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bircom, This is a site that is going to give information about meshtastic in Bir
 - 👀 I’m interested in ...Paragliding Safty
-- 🌱 I’m currently learning ...All ways that can help to make this safty thing happen
+- 🌱 I’m currently learning ...All ways that can help to make this safety thing happen
 - 💞️ I’m looking to collaborate on ...All aspects of this activity. Safety in Paragliding in the Dhauladhar Range.
 - 📫 How to reach me ...Our email is Bircom.hp@gmail.com. However we are very understaffed and so we may take some time to respond.
