@@ -45,7 +45,7 @@ managing these devices and data.
 
      ![](images/skylines-tracking-key.png)
 
-  3. Sign up at [https://flyxc.app/devices](https://flyxc.app/devices) and enter your skylines tracking ID from step above
+  3. Sign up at [https://flyxc.app/devices](https://flyxc.app/devices), enable tracking and enter your skylines tracking ID from step above
      ![flyxc-config.png](images/flyxc-config.png 'FlyXC Configuration')
 
   4. Install the Meshtastic app from
