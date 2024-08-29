@@ -31,7 +31,7 @@ managing these devices and data.
 
 ## FAQ
 
-- **I'm a pilot, how do I get started?**
+### I'm a pilot, how do I get started?
 
   1. Purchase a Meshtastic device that operates on the **_<ins>868MHz</ins>_** frequency band. We recommend the
      T-Echo from LilyGo. You can buy it from [hubtronics](https://docs.google.com/spreadsheets/d/10p-snL0-lxky0taJKvxZBNUQqcaO5LD9qC_WaZeRUKY/edit?gid=1208512175#gid=1208512175) in India at a discounted community price, or from another
@@ -61,12 +61,13 @@ managing these devices and data.
      at [http://tracker.bircom.in](http://tracker.bircom.in), in addition to [the telegram group](https://t.me/meshtastic_india/22)
   10. Check if you're visible on [https://flyxc.app/](https://flyxc.app/) and [https://skylines.aero/tracking](https://skylines.aero/tracking). This requires that you have a GPS fix, so make sure you're not indoors.
 
-- **How do I contribute to the community?**
+### How do I contribute to the community?
 
   1. Join our Meshtastic Telegram group at [https://t.me/meshtastic_india](https://t.me/meshtastic_india)
   2. Join our Bir Paragliding Community Telegram group at [https://t.me/BirParaglidingCommunity](https://t.me/BirParaglidingCommunity)
   3. Volunteer to set up a LoRa base station in your area, drop us a line on our telegram group.
   4. Donate to our cause at [https://milaap.org/fundraisers/support-paragliding-pilots-in-india/](https://milaap.org/fundraisers/support-paragliding-pilots-in-india/)
 
-- **I want to know more about the meshtastic setup in Bir**
+### I want to know more about the meshtastic setup in Bir
+
   Checkout [our presentation](https://bit.ly/MeshtasticBir)
