@@ -1,3 +1,7 @@
+---
+title: Welcome to Bir Paragliding Community
+---
+
 # Bir Paragliding Community
 
 Welcome to the Bir Paragliding Community site. Discover how we're leveraging technology to enhance pilot safety and
@@ -30,7 +34,7 @@ managing these devices and data.
   1. Purchase a Meshtastic device that operates on the **_<ins>868MHz</ins>_** frequency band. We recommend the
      T-Echo from LilyGo. You can buy it from [hubtronics](https://docs.google.com/spreadsheets/d/10p-snL0-lxky0taJKvxZBNUQqcaO5LD9qC_WaZeRUKY/edit?gid=1208512175#gid=1208512175) in India at a discounted community price, or from another
      vendor of your choice. Although other Meshtastic devices are available, we suggest the T-Echo because it supports
-     Soft-RF, which functions as a FLARM/FANET+/OGN beacon in most of Europe.
+     [Soft-RF](https://github.com/lyusupov/SoftRF), which functions as a FLARM/FANET+/OGN beacon in most of Europe.
 
      ![](images/t-echo.png 'LilyGo T-Echo')
 
