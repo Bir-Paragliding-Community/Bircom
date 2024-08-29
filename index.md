@@ -7,6 +7,8 @@ title: Welcome to Bir Paragliding Community
 Welcome to the Bir Paragliding Community site. Discover how we're leveraging technology to enhance pilot safety and
 improve search and rescue efforts.
 
+[Paragliding Tracker](https://tracker.bircom.in/) | [Mesh Map](https://paraguide.in/meshmap) | [Wiki](https://bir.localmesh.org/) | [India Meshtastic Telegram](https://t.me/meshtastic_india) | [Bir Paragliding Telegram](https://t.me/meshtastic_india) | [Contribute](https://milaap.org/fundraisers/support-paragliding-pilots-in-india/)
+
 ## Background
 
 Our trials in the Dhauladhar Range have shown that LoRa Mesh and Trackers are highly effective for tracking pilots and
