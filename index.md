@@ -34,8 +34,8 @@ managing these devices and data.
 
      ![](images/t-echo.png 'LilyGo T-Echo')
 
-  2. Sign up for a skylines tracking ID at https://skylines.aero/users/new and get your tracking key
-     from https://skylines.aero/settings/tracking
+  2. Sign up for a skylines tracking ID at [https://skylines.aero/users/new](https://skylines.aero/users/new) and get your tracking key
+     from [https://skylines.aero/settings/tracking](https://skylines.aero/settings/tracking)
 
      ![](images/skylines-tracking-key.png)
 
@@ -47,19 +47,19 @@ managing these devices and data.
      or the [Apple App Store](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1586432531).
 
   5. Follow the app's instructions to pair your device.
-  6. Download a configuration file for your meshtastic device from http://tracker.bircom.in/?configure
+  6. Download a configuration file for your meshtastic device from [the tracker configuration](http://tracker.bircom.in/?configure)
   7. The downloaded configuration sets the Bluetooth pin to `123456`. For your own safety and security, please change
      the pin from the settings section of the meshtastic app.
   8. From the meshtastic app, import the downloaded configuration file into your meshtastic device.
   9. From the meshtastic app, send a message on `LongFast`, and see if it shows up on the map
-     at http://tracker.bircom.in, in addition to [the telegram group](https://t.me/meshtastic_india/22)
-  10. Check if you're visible on https://flyxc.app/ and https://skylines.aero/tracking. This requires that you have a GPS fix, so make sure you're not indoors.
+     at [http://tracker.bircom.in](http://tracker.bircom.in), in addition to [the telegram group](https://t.me/meshtastic_india/22)
+  10. Check if you're visible on [https://flyxc.app/](https://flyxc.app/) and [https://skylines.aero/tracking](https://skylines.aero/tracking). This requires that you have a GPS fix, so make sure you're not indoors.
 
 - **How do I contribute to the community?**
 
-  1. Join our Telegram group at https://t.me/meshtastic_india
+  1. Join our Telegram group at [https://t.me/meshtastic_india](https://t.me/meshtastic_india)
   2. Volunteer to set up a LoRa base station in your area
-  3. Donate to our cause at https://milaap.org/fundraisers/support-paragliding-pilots-in-india/
+  3. Donate to our cause at [https://milaap.org/fundraisers/support-paragliding-pilots-in-india/](https://milaap.org/fundraisers/support-paragliding-pilots-in-india/)
 
 - **I want to know more about the meshtastic setup in Bir**
   Checkout [our presentation](https://bit.ly/MeshtasticBir)
