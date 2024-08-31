@@ -60,7 +60,7 @@ managing these devices and data.
   9. From the meshtastic app, send a message on `LongFast`, and see if it shows up on the map
      at [http://tracker.bircom.in](http://tracker.bircom.in), in addition to [the telegram group](https://t.me/meshtastic_india/22)
   10. Check if you're visible on [https://flyxc.app/](https://flyxc.app/) and [https://skylines.aero/tracking](https://skylines.aero/tracking). This requires that you have a GPS fix, so make sure you're not indoors.
-  11. If you you flying anywhere other than Bir, enable mqtt on some of the internet connected nodes, all the nodes in your mesh will show up on [https://tracker.bircom.in](https://tracker.bircom.in).
+  11. If you are flying anywhere other than Bir, enable mqtt on some of the internet connected nodes, all the nodes in your mesh will show up on [https://tracker.bircom.in](https://tracker.bircom.in).
 
 ### How do I contribute to the community?
 
