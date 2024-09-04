@@ -40,13 +40,7 @@ managing these devices and data.
 
      ![](images/t-echo.png 'LilyGo T-Echo')
 
-  2. Sign up for a skylines tracking ID at [https://skylines.aero/users/new](https://skylines.aero/users/new) and get your tracking key
-     from [https://skylines.aero/settings/tracking](https://skylines.aero/settings/tracking)
-
-     ![](images/skylines-tracking-key.png)
-
-  3. Sign up at [https://flyxc.app/devices](https://flyxc.app/devices), enable tracking and enter your skylines tracking ID from step above
-     ![flyxc-config.png](images/flyxc-config.png 'FlyXC Configuration')
+  2. Sign up at [https://flyxc.app/devices](https://flyxc.app/devices), enable tracking, enable Bircom and enter your device UUID. You can find your UUID from https://tracker.bircom.in, search for your node or locate it on the map.
 
   4. Install the Meshtastic app from
      the [Google Play Store](https://play.google.com/store/apps/details?id=com.geeksville.mesh&referrer=utm_source=downloads-page)
