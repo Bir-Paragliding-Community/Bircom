@@ -40,7 +40,7 @@ managing these devices and data.
 
      ![](images/t-echo.png 'LilyGo T-Echo')
 
-  2. Sign up at [https://flyxc.app/devices](https://flyxc.app/devices), enable tracking, enable Bircom and enter your device UUID. You can find your UUID from https://tracker.bircom.in, search for your node or locate it on the map.
+  2. Sign up at [https://flyxc.app/devices](https://flyxc.app/devices), enable tracking, enable Bircom and enter your device UUID. You can find your UUID from [our tracker](https://tracker.bircom.in), search for your node or locate it on the map.
      ![](images/flyxc-config.jpg 'Flyxc Setup')
   4. Install the Meshtastic app from
      the [Google Play Store](https://play.google.com/store/apps/details?id=com.geeksville.mesh&referrer=utm_source=downloads-page)
