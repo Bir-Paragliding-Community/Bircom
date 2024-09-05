@@ -8,3 +8,4 @@ Additional Disclaimers
  * We recommend that users consult with qualified professionals before making any decisions based on the information on this page.
  * We are not liable for any damages arising from the use of the information on this page.
 By using this technology, you agree to these disclaimers.
+ * We do not store any data on our servers. Third party may collect publicly broadcasted data over the air so turn off the device or it's GPS to disable location tracking and do not send any text that you would not want public, not even direct messages.
