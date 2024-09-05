@@ -1,6 +1,6 @@
 Disclaimer
 
-The Bir Paragliding Community and its developers are not responsible for any search and rescue (SAR) operations. This technology and information is provided as-is, and we make no guarantees about its functionality or accuracy. Users are responsible for their own safety and decision-making. Their emergency contact will be responsible for all coordination in case SAR is required.
+The Bir Paragliding Community and its developers are not responsible for any search and rescue (SAR) operations. This information about the technology (LoraMesh and Meshtastic)  is provided as-is, and we make no guarantees about its functionality or accuracy. Users are responsible for recehcking these from the respective sites of the original owners. Users are also responcible for their own safety and decision-making. Their emergency contact, or any other arrangements they make, will be responsible for all coordination in case SAR is required.
 
 Additional Disclaimers
 
