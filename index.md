@@ -61,7 +61,7 @@ managing these devices and data.
   1. Join our Meshtastic Telegram group at [https://t.me/meshtastic_india](https://t.me/meshtastic_india)
   2. Join our Bir Paragliding Community Telegram group at [https://t.me/BirParaglidingCommunity](https://t.me/BirParaglidingCommunity)
   3. Volunteer to set up a LoRa base station in your area, drop us a line on our telegram group.
-  4. Donate to our cause at [https://milaap.org/fundraisers/support-paragliding-pilots-in-india/](https://milaap.org/fundraisers/support-paragliding-pilots-in-india/)
+  4. Donate to our cause at [https://milaap.org/fundraisers/support-paragliding-pilots-in-india/](https://milaap.org/fundraisers/support-paragliding-pilots-in-india/). The funding portal does not support foreign currency donations due to Indian regulations. If you would like to contribute, you will need to wire money to someone in India who would then donate on your behalf.
 
 ### I want to know more about the meshtastic setup in Bir
 
