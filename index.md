@@ -66,5 +66,5 @@ managing these devices and data.
 ### I want to know more about the meshtastic setup in Bir
 
   Checkout [our presentation](https://bit.ly/MeshtasticBir)
-  Flyxc [Paraglider Pilots see yourself on Flyxc live].(https://www.facebook.com/flyxcapp/posts/pfbid025uurSJCqifq2B89vPyzr3DhV7xVSW4ButwDJt7vm9yS16tb32GSDxMgiY3M21C4il)
+  Flyxc [Paraglider Pilots see yourself on Flyxc live].(https://www.facebook.com/flyxcapp/posts/pfbid025uurSJCqifq2B89vPyzr3DhV7xVSW4ButwDJt7vm9yS16tb32GSDxMgiY3M21C4il).
   Other Languages [Spanish].(https://bircom-in.translate.goog/?_x_tr_sl=auto&_x_tr_tl=es)
