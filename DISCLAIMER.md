@@ -4,7 +4,7 @@ The Bir Paragliding Community and its developers are not responsible for any sea
 
 Additional Disclaimers
 
- * The information on this page is for informational purposes only and should not be construed as professional advice.
+ * The information we share is for informational purposes only and should not be construed as professional advice.
  * We recommend that users consult with qualified professionals before making any decisions based on the information on this page.
  * We are not liable for any damages arising from the use of the information on this page.
 By using this technology, you agree to these disclaimers.
