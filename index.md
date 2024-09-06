@@ -67,4 +67,4 @@ managing these devices and data.
 
   1. Checkout [our presentation](https://bit.ly/MeshtasticBir)
   2. Flyxc [Paraglider Pilots see yourself on Flyxc live](https://www.facebook.com/flyxcapp/posts/pfbid025uurSJCqifq2B89vPyzr3DhV7xVSW4ButwDJt7vm9yS16tb32GSDxMgiY3M21C4il).
-  3. Other Languages [Spanish](https://bircom-in.translate.goog/?_x_tr_sl=auto&_x_tr_tl=es)   [French](https://bircom-in.translate.goog/?_x_tr_sl=auto&_x_tr_tl=fr) 
+  3. Other Languages [Spanish](https://bircom-in.translate.goog/?_x_tr_sl=auto&_x_tr_tl=es)   [Hindi](https://bircom-in.translate.goog/?_x_tr_sl=auto&_x_tr_tl=hi)  [French](https://bircom-in.translate.goog/?_x_tr_sl=auto&_x_tr_tl=fr) 
