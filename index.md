@@ -40,7 +40,7 @@ managing these devices and data.
 
      ![](images/t-echo.png 'LilyGo T-Echo')
 
-     Note: You T-Echo may need flashing the latest firmware, double tap the up button after plugging it in a computer and get the latest from [https://flasher.meshtastic.org](https://flasher.meshtastic.org).
+     Note: Your Meshtastic device may need flashing the latest firmware, double tap the up button after plugging it in a computer and get the latest from [https://flasher.meshtastic.org](https://flasher.meshtastic.org).
 
   3. Sign up at [https://flyxc.app/devices](https://flyxc.app/devices), enable tracking, enable Bircom and enter your device UUID. You can find your UUID from [our tracker](https://tracker.bircom.in), search for your node or locate it on the map. Please note that new ID is generated which you will have to update on flyxc if you change LongName or ShortName in your device.
      ![](images/flyxc-config.jpg 'Flyxc Setup')
