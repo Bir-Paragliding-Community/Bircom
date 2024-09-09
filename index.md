@@ -19,6 +19,8 @@ LoRa (Long Range) is a low-power, long-range communication technology operating 
 with the Meshtastic app on Android and iOS, it enables pilots to share their location over a decentralized mesh network,
 with each device extending the network's range.
 
+In the past few months of testing, we have shared our findings with the Local Government Participants who, as per local custom, are involved in facilitating Paraglider Pilots. They have shown great interest in promoting safety, and their involvement in the further growth of Tracker usage for Pilot Safety is imminent. As this is a community effort, it is impossible not to involve them. The only downside has been frequent discussions about making these LoRa Devices mandatory for all pilots who wish to fly here. Whether this will happen or not, we cannot say for certain. However, pilots coming to the Dhauladhar Range to fly would do well to bring these low-cost Meshtastic Trackers with them.
+
 ## LoRa Base Stations in Bir
 
 In late 2023 and early 2024, volunteers set up solar-powered LoRa repeaters across key points in the Dhauladhar Range,
@@ -35,9 +37,7 @@ managing these devices and data.
 
   1. Purchase a Meshtastic device that operates on the **_<ins>868MHz</ins>_** frequency band. We recommend the
      T-Echo from LilyGo. You can buy it from [hubtronics](https://docs.google.com/spreadsheets/d/10p-snL0-lxky0taJKvxZBNUQqcaO5LD9qC_WaZeRUKY/edit?gid=1208512175#gid=1208512175) in India at a discounted community price, or from another
-     vendor of your choice. Although other Meshtastic devices are available, we suggest the T-Echo because it supports
-     [Soft-RF](https://github.com/lyusupov/SoftRF), which functions as a FLARM/FANET+/OGN beacon in most of Europe.
-
+     vendor of your choice. [Meshtastic Devices that work](https://meshtastic.org/docs/hardware/devices/)
      ![](images/t-echo.png 'LilyGo T-Echo')
 
      Note: Your Meshtastic device may need flashing the latest firmware, double tap the up button after plugging it in a computer and get the latest from [https://flasher.meshtastic.org](https://flasher.meshtastic.org).
