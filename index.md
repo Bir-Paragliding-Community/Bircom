@@ -7,7 +7,7 @@ title: Welcome to Bir Paragliding Community
 Welcome to the Bir Paragliding Community site. Discover how we're leveraging technology to enhance pilot safety and
 improve search and rescue efforts.
 
-[Paragliding Tracker](https://tracker.bircom.in/) | [Mesh Map](https://paraguide.in/meshmap) | [Wiki](https://bir.localmesh.org/) | [India Meshtastic Telegram](https://t.me/meshtastic_india) | [Bir Paragliding Telegram](https://t.me/meshtastic_india) | [Contribute](https://milaap.org/fundraisers/support-paragliding-pilots-in-india/) | [DISCLAIMER](https://bircom.in/DISCLAIMER.html)
+[Paragliding Tracker](https://tracker.bircom.in/) | [Mesh Map](https://paraguide.in/meshmap) | [Bir Paragliding Telegram](https://t.me/meshtastic_india) | [DISCLAIMER](https://bircom.in/DISCLAIMER.html)
 
 ## Background
 
@@ -60,11 +60,9 @@ managing these devices and data.
 
 ### How do I contribute to the community?
 
-  1. Join our Meshtastic Telegram group at [https://t.me/meshtastic_india](https://t.me/meshtastic_india)
-  2. Join our Bir Paragliding Community Telegram group at [https://t.me/BirParaglidingCommunity](https://t.me/BirParaglidingCommunity)
-  3. Volunteer to set up a LoRa base station in your area, drop us a line on our telegram group.
-  4. Donate to our cause at [https://milaap.org/fundraisers/support-paragliding-pilots-in-india/](https://milaap.org/fundraisers/support-paragliding-pilots-in-india/). The funding portal does not support foreign currency donations due to Indian regulations. If you would like to contribute, you will need to wire money to someone in India who would then donate on your behalf.
-
+  1. Join our Bir Paragliding Community Telegram group at [https://t.me/BirParaglidingCommunity](https://t.me/BirParaglidingCommunity)
+  2. Volunteer to set up a LoRa base station in your area, drop us a line on our telegram group.
+ 
 ### I want to know more about the meshtastic setup in Bir
 
   1. Checkout [our presentation](https://bit.ly/MeshtasticBir)
