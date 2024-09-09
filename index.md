@@ -19,7 +19,12 @@ LoRa (Long Range) is a low-power, long-range communication technology operating 
 with the Meshtastic app on Android and iOS, it enables pilots to share their location over a decentralized mesh network,
 with each device extending the network's range.
 
-In the past few months of testing, we have shared our findings with the Local Government Participants who, as per local custom, are involved in facilitating Paraglider Pilots. They have shown great interest in promoting safety, and their involvement in the further growth of Tracker usage for Pilot Safety is imminent. As this is a community effort, it is impossible not to involve them. The only downside has been frequent discussions about making these LoRa Devices mandatory for all pilots who wish to fly here. Whether this will happen or not, we cannot say for certain. However, pilots coming to the Dhauladhar Range to fly would do well to bring these low-cost Meshtastic Trackers with them.
+Over the past few months of testing, we've had the pleasure of sharing our findings with the local government participants
+who play a key role in supporting paraglider pilots. Their enthusiasm for enhancing safety is inspiring, and their continued
+involvement will be instrumental in advancing Tracker usage for pilot safety. Given that this is a community-driven initiative,
+their participation is invaluable. There have been discussions about potentially making these LoRa Devices a requirement for 
+pilots flying here, though the outcome is still to be determined. In the meantime, pilots visiting the Dhauladhar Range
+would benefit from bringing these affordable Meshtastic Trackers along.
 
 ## LoRa Base Stations in Bir
 
