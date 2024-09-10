@@ -8,5 +8,5 @@ The Bir Paragliding Community and its developers are not responsible for any sea
  * We recommend that users consult with qualified professionals before making any decisions based on the information shared by us.
  * We are not liable for any damages arising from the use of the information shared by us or the technologies mentioned that are either developed by us or anyone else.
 By using this technology, you agree to these disclaimers.
- * We do not store any data on our servers. Third party may collect publicly broadcasted data over the air so turn off the device or it's GPS to disable location tracking and do not send any text that you would not want public, not even direct messages.
+ * We store your location data on our servers, any text messages that you send/receive over meshtastic, along with the name and identifier of the meshtastic device. Do not share any personal information over this public channel.
  * We may modify this disclaimer and any information we share as we consider appropriate.
