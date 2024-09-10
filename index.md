@@ -7,7 +7,7 @@ title: Welcome to Bir Paragliding Community
 Welcome to the Bir Paragliding Community site. Discover how we're leveraging technology to enhance pilot safety and
 improve search and rescue efforts.
 
-[Paragliding Tracker](https://tracker.bircom.in/) | [Bir Paragliding Telegram](https://t.me/meshtastic_india) | [Bir Paragliding WhatsApp](https://chat.whatsapp.com/KDjwk3DMlnq9ckKf5hpY5N) | [Partners](https://bircom.in/supporters.html) | [DISCLAIMER](https://bircom.in/DISCLAIMER.html)
+[Paragliding Tracker](https://tracker.bircom.in/) | [Bir Paragliding Telegram](https://t.me/meshtastic_india) | [Bir Paragliding WhatsApp](https://chat.whatsapp.com/KDjwk3DMlnq9ckKf5hpY5N) | [Partners](https://bircom.in/partners.html) | [DISCLAIMER](https://bircom.in/DISCLAIMER.html)
 
 ## Background
 
