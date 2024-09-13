@@ -22,3 +22,7 @@ The following volunteers have contributed their efforts and time. In no particul
 * Jigish Gohil, for volunteering to configure devices for pilots, making educational videos to help onboard users
 * [Ketan Padegaonkar](https://github.com/ketan) for building the open source tracker website [tracker website](https://tracker.bircom.in) on [github](https://github.com/ketan/paragliding-meshmap)
 * Badari Duddupudi, for helping spread the word about meshtastic on his [youtube channel](https://youtu.be/LILYWKAdFDo)
+* CS Rathore for being an early tester
+* Gajender Nagar and Arvind Menon for sim subscriptions for the base stations
+* Karan for providing a local sim for the base station.
+* Bikram and everyone on Milaap who have contributed to support this project.
