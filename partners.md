@@ -15,10 +15,3 @@ Bircom has been possible because of the efforts of the following (in order of jo
 * [Ketan Padegaonkar](https://github.com/ketan) for offering to host the cloud infrastructure to run the [tracker website](https://tracker.bircom.in) and MQTT server at `mqtt.bircom.in`.
 * Manoj Shetty, Treasurer at [Paragliding Associaiton of India](https://www.paraglidingassociationofindia.org/) for helping operate the fund raiser that allows us to buy the initial equipment.
 
-# Volunteers
-
-The following volunteers have contributed their efforts and time. In no particular order.
-
-* Jigish Gohil, for volunteering to configure devices for pilots, making educational videos to help onboard users
-* [Ketan Padegaonkar](https://github.com/ketan) for building the open source tracker website [tracker website](https://tracker.bircom.in) on [github](https://github.com/ketan/paragliding-meshmap)
-* Badari Duddupudi, for helping spread the word about meshtastic on his [youtube channel](https://youtu.be/LILYWKAdFDo)
