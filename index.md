@@ -28,7 +28,7 @@ would benefit from bringing these affordable Meshtastic Trackers along.
 
 ## LoRa Base Stations in Bir
 
-In late 2023 and early 2024, volunteers set up solar-powered LoRa repeaters across key points in the Dhauladhar Range,
+In late 2023 and early 2024, community partners set up solar-powered LoRa repeaters across key points in the Dhauladhar Range,
 ensuring continuous coverage even with low pilot activity. Base stations in Bir and Dharamshala collect location data
 and send it to a central server. We are currently working on secure, long-term data storage and privacy protection
 measures.
