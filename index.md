@@ -37,32 +37,6 @@ With the Autumn Season of 2024 we are in the process of adding 14 more repeater 
 
 These stations are managed and taken care of by local Bir based community partners. We thank them all for their public service as no monetary gains are there for them and they are doing all this for public good. Thank You all.
 
-## FAQ
-
-### I'm a pilot, how do I get started?
-
-  1. Purchase a Meshtastic device that operates on the **_<ins>868MHz</ins>_** frequency band. We recommend the
-     T-Echo from LilyGo. You can buy it from [hubtronics](https://docs.google.com/spreadsheets/d/10p-snL0-lxky0taJKvxZBNUQqcaO5LD9qC_WaZeRUKY/edit?gid=1208512175#gid=1208512175) in India at a discounted community price, or from another
-     vendor of your choice. [Meshtastic Devices that work](https://meshtastic.org/docs/hardware/devices/)
-     ![](images/t-echo.png 'LilyGo T-Echo')
-
-     Note: Your Meshtastic device may need flashing the latest firmware, double tap the up button after plugging it in a computer and get the latest from [https://flasher.meshtastic.org](https://flasher.meshtastic.org).
-
-  3. Sign up at [https://flyxc.app/devices](https://flyxc.app/devices), enable tracking, enable Bircom and enter your device UUID. You can find your UUID from [our tracker](https://tracker.bircom.in), search for your node or locate it on the map. Please note that new ID is generated which you will have to update on flyxc if you change LongName or ShortName in your device.
-     ![](images/flyxc-config.jpg 'Flyxc Setup')
-  4. Install the Meshtastic app from
-     the [Google Play Store](https://play.google.com/store/apps/details?id=com.geeksville.mesh&referrer=utm_source=downloads-page)
-     or the [Apple App Store](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1586432531).
-
-  5. Follow the app's instructions to pair your device.
-  6. Download a configuration file for your meshtastic device from [the tracker configuration](http://tracker.bircom.in/?configure)
-  7. The downloaded configuration sets the Bluetooth pin to `123456`. For your own safety and security, please change
-     the pin from the settings section of the meshtastic app.
-  8. From the meshtastic app, import the downloaded configuration file into your meshtastic device.
-  9. From the meshtastic app, send a message on `LongFast`, and see if it shows up on the map
-     at [http://tracker.bircom.in](http://tracker.bircom.in), in addition to [the telegram group](https://t.me/meshtastic_india/22)
-  10. Check if you're visible on [https://flyxc.app/](https://flyxc.app/) and [https://skylines.aero/tracking](https://skylines.aero/tracking). This requires that you have a GPS fix, so make sure you're not indoors.
-  11. If you are flying anywhere other than Bir, enable mqtt on some of the internet connected nodes, all the nodes in your mesh will show up on [https://tracker.bircom.in](https://tracker.bircom.in).
 
 ### How do I contribute to the community?
 
