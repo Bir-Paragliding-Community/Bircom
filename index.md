@@ -33,8 +33,9 @@ ensuring continuous coverage even with low pilot activity. Base stations in Bir 
 and send it to a central server. We are currently working on secure, long-term data storage and privacy protection
 measures.
 
-With the Autumn Season of 2024 approaching, we are upgrading our infrastructure and improving our understanding of
-managing these devices and data.
+With the Autumn Season of 2024 we are in the process of adding 14 more repeater and base stations to our existing stations. All these are already either deployed or will be in place by the middle of October 2024. The exact locations are not publicly available but the extent of coverage is pretty good. You can see pilots flying on any day as they fly on the tracker link above. 
+
+These stations are managed and taken care of by local Bir based community partners. We thank them all for their public service as no monetary gains are there for them and they are doing all this for public good. Thank You all.
 
 ## FAQ
 
