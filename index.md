@@ -34,9 +34,9 @@ ensuring continuous coverage even with low pilot activity. Base stations in Bir 
 and send it to a central server. We are currently working on secure, long-term data storage and privacy protection
 measures.
 
-In order to give these stations and the infrastructure  a permanent shape, we are in the process of incorporating a Section 8, non profit entity. We hope that once this is done, the initiative that has given us a lot of hope will continue to grow. In addition to tracking, this non-profit will explore ways to expedite the Search and Rescue efforts for persons in distress in locations that are not easily accessible. A lot of discussion has gone into this SAR initiative and you will hear more on this website of the progress made.
+In order to give this infrastructure  a permanent shape, we are in the process of incorporating a Section 8, non profit entity. We hope that once this is done, the initiative that has given us a lot of hope, will continue to grow. In addition to tracking, this non-profit will explore ways to expedite the Search and Rescue efforts for persons in distress, in locations that are not easily accessible. Many people have shown interest in contributing to the cause. A Registered Non-Profit will give them such an opportunity. This requires permissions and recognition from the Income Tax authorities and also permission from the Government for receiving funds from Abroad. A lot of community discussion has gone into this SAR initiative.
 
-These stations were managed and taken care of by local Bir based community partners. However, for the sake of permanence, other alternatives are also being explored. We thank all those who gave their time and effort for their public service as no monetary gains are there for them and they are doing all this for public good. Thank You all.
+This infrastructure is being taken care of by many Indian Pilots as volunteers. However, for the sake of permanence,  in addition to these arrangements, other additional paid resources  are also being explored. We thank all those who give their time and effort for this public service as no monetary gains are there for them and they are doing all this for public good. Thank You all.
 
 ### How do I contribute to the community?
 
