@@ -27,10 +27,10 @@ their participation is invaluable. There have been discussions about potentially
 pilots flying here, though the outcome is still to be determined. In the meantime, pilots visiting the Dhauladhar Range
 would benefit from bringing these affordable Meshtastic Trackers along.
 
-## LoRa Hubs in Bir
+## LoRa Hubs in Bir and Dharamshala
 
-In late 2023 and early 2024, community partners set up solar-powered LoRa repeaters across key points in the Dhauladhar Range,
-ensuring continuous coverage even with low pilot activity. Base stations in Bir and Dharamshala collect location data
+In late 2023 and early 2024, community members set up solar-powered LoRa repeaters across key points in the Dhauladhar Range,
+ensuring continuous coverage even with low pilot activity. Hubs in Bir and Dharamshala collect location data
 and send it to a central server. We are currently working on secure, long-term data storage and privacy protection
 measures.
 
