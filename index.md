@@ -1,5 +1,5 @@
 ---
-title: Welcome to Bir Paragliding Community 
+title: Bir Paragliding Community 
 ---
 
 # Bir Paragliding Community | A part of the Bircom SAR Foundation
@@ -27,7 +27,7 @@ their participation is invaluable. There have been discussions about potentially
 pilots flying here, though the outcome is still to be determined. In the meantime, pilots visiting the Dhauladhar Range
 would benefit from bringing these affordable Meshtastic Trackers along.
 
-## LoRa Base Stations in Bir
+## LoRa Hubs in Bir
 
 In late 2023 and early 2024, community partners set up solar-powered LoRa repeaters across key points in the Dhauladhar Range,
 ensuring continuous coverage even with low pilot activity. Base stations in Bir and Dharamshala collect location data
