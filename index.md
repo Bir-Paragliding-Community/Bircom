@@ -1,5 +1,5 @@
 ---
-title: Welcome to Bir Paragliding Community :::: A Community which is a part of the Bircom SAR Foundation
+title: Welcome to Bir Paragliding Community >>> A Community which is a part of the Bircom SAR Foundation
 ---
 
 # Bir Paragliding Community
