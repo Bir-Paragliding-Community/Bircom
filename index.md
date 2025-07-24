@@ -1,5 +1,5 @@
 ---
-title: Welcome to Bir Paragliding Community
+title: Welcome to Bir Paragliding Community :::: A Community which is a part of the Bircom SAR Foundation
 ---
 
 # Bir Paragliding Community
@@ -7,13 +7,14 @@ title: Welcome to Bir Paragliding Community
 Welcome to the Bir Paragliding Community site. Discover how we're leveraging technology to enhance pilot safety and
 improve search and rescue efforts.
 
-[Paragliding Tracker](https://tracker.bircom.in/) | [Bir Paragliding Telegram](https://t.me/meshtastic_india) | [Bir Paragliding WhatsApp](https://chat.whatsapp.com/KDjwk3DMlnq9ckKf5hpY5N) | [Partners](https://bircom.in/partners.html) | [DISCLAIMER](https://bircom.in/DISCLAIMER.html)
+[Paragliding Tracker](https://tracker.bircom.in/) | [Bir Paragliding Telegram](https://t.me/meshtastic_india) |  [Partners](https://bircom.in/partners.html) | [DISCLAIMER](https://bircom.in/DISCLAIMER.html)
 
 ## Background
 
-Our trials in the Dhauladhar Range have shown that LoRa Mesh and Trackers are highly effective for tracking pilots and
-providing communication where cellular or satellite coverage is unavailable. Unlike satellite communication—which is
+Personal Trackers based on LoRa technology are a very practical way for Paragliding Pilots to share their location with other Pilots who fly with them in the same sites.
+Throughout 2024 we carried out  trials in the Dhauladhar Range, with some home-made and other commercially available trackers using the Meshtastic App and firmware to see how this would work for us. We have had some Hubs working all through that period and continue to do so till date.  These have proven highly effective for tracking pilots and providing communication where cellular or satellite coverage is unavailable. Unlike satellite communication—which is
 heavily regulated and illegal for private use in India—LoRa technology offers a free, license-free solution.
+
 
 LoRa (Long Range) is a low-power, long-range communication technology operating in the unlicensed ISM band. When paired
 with the Meshtastic app on Android and iOS, it enables pilots to share their location over a decentralized mesh network,
@@ -33,10 +34,9 @@ ensuring continuous coverage even with low pilot activity. Base stations in Bir 
 and send it to a central server. We are currently working on secure, long-term data storage and privacy protection
 measures.
 
-With the Autumn Season of 2024 we are in the process of adding 14 more repeater and base stations to our existing stations. All these are already either deployed or will be in place by the middle of October 2024. The exact locations are not publicly available but the extent of coverage is pretty good. You can see pilots flying on any day as they fly on the tracker link above. 
+In order to give these stations and the infrastructure  a permanent shape, we are in the process of incorporating a Section 8, non profit entity. We hope that once this is done, the initiative that has given us a lot of hope will continue to grow. In addition to tracking, this non-profit will explore ways to expedite the Search and Rescue efforts for persons in distress in locations that are not easily accessible. A lot of discussion has gone into this SAR initiative and you will hear more on this website of the progress made.
 
-These stations are managed and taken care of by local Bir based community partners. We thank them all for their public service as no monetary gains are there for them and they are doing all this for public good. Thank You all.
-
+These stations were managed and taken care of by local Bir based community partners. However, for the sake of permanence, other alternatives are also being explored. We thank all those who gave their time and effort for their public service as no monetary gains are there for them and they are doing all this for public good. Thank You all.
 
 ### How do I contribute to the community?
 
