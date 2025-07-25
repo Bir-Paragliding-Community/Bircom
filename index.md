@@ -2,7 +2,7 @@
 title: Bir Paragliding Community 
 ---
 
-# Bir Paragliding Community | A part of the Bircom SAR Foundation
+# Bir Paragliding Community | Bircom SAR Foundation
 
 Welcome to the Bir Paragliding Community site. Discover how we're leveraging technology to enhance pilot safety and
 improve search and rescue efforts.
