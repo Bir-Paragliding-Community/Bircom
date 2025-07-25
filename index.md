@@ -27,12 +27,12 @@ their participation is invaluable. There have been discussions about potentially
 pilots flying here, though the outcome is still to be determined. In the meantime, pilots visiting the Dhauladhar Range
 would benefit from bringing these affordable Meshtastic Trackers along.
 
-## LoRa Hubs in Bir and Dharamshala
+## Community Hubs in Bir and Dharamshala
 
-In late 2023 and early 2024, community members set up solar-powered LoRa repeaters across key points in the Dhauladhar Range,
-ensuring continuous coverage even with low pilot activity. Hubs in Bir and Dharamshala collect location data
-and send it to a central server. We are currently working on secure, long-term data storage and privacy protection
-measures.
+From the beginning of 2024, community members set up solar-powered LoRa repeaters across key points in the Dhauladhar Range,
+ensuring continuous coverage even with low pilot activity. Community Hubs in Bir and Dharamshala collect location data
+and send it to a central server. We are currently working on secure, long-term data storage and privacy protection measures. For the Season of 2025 we hope to organize three more Community Hubs at Kullu, Joginder Nagar and Palampur. It is expected that these Community Hubs will fully participate in the Search and Rescue work of the community as a whole.
+
 
 In order to give this infrastructure  a permanent shape, we are in the process of incorporating a Section 8, non profit entity. We hope that once this is done, the initiative that has given us a lot of hope, will continue to grow. In addition to tracking, this non-profit will explore ways to expedite the Search and Rescue efforts for persons in distress, in locations that are not easily accessible. Many people have shown interest in contributing to the cause. A Registered Non-Profit will give them such an opportunity. This requires permissions and recognition from the Income Tax authorities and also permission from the Government for receiving funds from Abroad. A lot of community discussion has gone into this SAR initiative.
 
