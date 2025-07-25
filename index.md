@@ -11,7 +11,7 @@
   }
 </style>
 
-<img src="/assets/logo.png" alt="Logo" class="logo" />
+<img src="/images/logo.png" alt="Logo" class="logo" />
 
 ---
 title: Bir Paragliding Community 
