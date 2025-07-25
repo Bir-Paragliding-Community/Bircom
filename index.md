@@ -1,5 +1,3 @@
-
-
 ---
 title: Bir Paragliding Community 
 ---
