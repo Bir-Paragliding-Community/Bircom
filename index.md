@@ -1,17 +1,4 @@
-<!-- Add this at the top of index.md -->
 
-<style>
-  body {
-    background-color: #f0f8ff; /* light blue background */
-  }
-  .logo {
-    display: block;
-    margin: 20px auto;
-    max-width: 200px;
-  }
-</style>
-
-<img src="/images/logo.png" alt="Logo" class="logo" />
 
 ---
 title: Bir Paragliding Community 
