@@ -12,7 +12,7 @@ improve search and rescue efforts.
 ## Background
 
 Personal Trackers based on LoRa technology are a very practical way for Paragliding Pilots to share their location with other Pilots who fly with them in the same sites.
-Throughout 2024 we carried out  trials in the Dhauladhar Range, with some home-made and other commercially available trackers using the Meshtastic App and firmware to see how this would work for us. We have had some Hubs working all through that period and continue to do so till date.  These have proven highly effective for tracking pilots and providing communication where cellular or satellite coverage is unavailable. Unlike satellite communication—which is
+Throughout 2024 we carried out  trials in the Dhauladhar Range, with some home-made and other commercially available trackers using the Meshtastic App and firmware to see how this would work for us. We have had some Community Hubs working all through that period and continue to do so till date.  These have proven highly effective for tracking pilots and providing communication where cellular or satellite coverage is unavailable. Unlike satellite communication—which is
 heavily regulated and illegal for private use in India—LoRa technology offers a free, license-free solution.
 
 
