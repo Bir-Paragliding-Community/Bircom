@@ -2,12 +2,12 @@
 title: Bir Paragliding Community 
 ---
 
-# Bir Paragliding Community | Bircom SAR Foundation
+# Bir Paragliding Community 
 
 Welcome to the Bir Paragliding Community site. Discover how we're leveraging technology to enhance pilot safety and
 improve search and rescue efforts.
 
-[Paragliding Tracker](https://tracker.bircom.in/) | [Bir Paragliding Telegram](https://t.me/meshtastic_india) |  [Partners](https://bircom.in/partners.html) | [DISCLAIMER](https://bircom.in/DISCLAIMER.html)
+[Paragliding Tracker](https://tracker.bircom.in/) | [Bir Paragliding Telegram](https://t.me/meshtastic_india)| [Bircom SAR Foundation](https://sar.bircom.in) |  [Partners](https://bircom.in/partners.html) | [DISCLAIMER](https://bircom.in/DISCLAIMER.html)
 
 ## Background
 
